@@ -63,13 +63,13 @@ var fourth_break=break_create();
 
 var email=label_create("label","for","email","email")
 var email_break=break_create();
-var email_input=input_create("input","type","email","id","email")
+var email_input=input_create("input","type","text","id","email")
 
 var fifth_break=break_create();
 
 var password=label_create("label","for","password","password")
 var password_break=break_create();
-var password_input=input_create("input","type","password","id","password");
+var password_input=input_create("input","type","text","id","password");
 
 var sixth_break=break_create();
 
